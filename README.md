@@ -7,6 +7,10 @@ This is a fork of [Create Renewable Ores](https://github.com/CodeF53/Create-Rene
 - Changed Deepslate recipe to result in Cobbled Deepslate
 - Changed Tuff to require Basalt instead of scoria
 
+## Additions
+
+- Added recipe for netherrack: Heated mixing with 2 cobblestone, 1 cinder flour, and 200mB of lava.
+
 ### Original README
 
 A Datapack/Mod for [Create Farbic](https://modrinth.com/mod/create-fabric) that adds renewable recipes for crimsite, ochrum, veridium, and asurine.
