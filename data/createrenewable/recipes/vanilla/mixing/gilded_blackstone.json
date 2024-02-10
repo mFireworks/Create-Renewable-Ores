@@ -5,13 +5,33 @@
       "item": "minecraft:blackstone"
     },
     {
-      "item": "minecraft:gold_nugget",
-      "count": 8
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
     }
   ],
   "results": [
     {
-      "item": "minecraft:gilded_backstone"
+      "item": "minecraft:gilded_blackstone"
     }
   ]
 }
