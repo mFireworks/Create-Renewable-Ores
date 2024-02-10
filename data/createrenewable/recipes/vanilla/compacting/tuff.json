@@ -2,10 +2,10 @@
     "type": "create:compacting",
     "ingredients": [
       {
-        "item": "create:scoria"
+        "item": "minecraft:basalt"
       },
       {
-        "item": "create:scoria"
+        "item": "minecraft:basalt"
       },
       {
         "item": "minecraft:cobbled_deepslate"

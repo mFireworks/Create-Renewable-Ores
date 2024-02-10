@@ -5,6 +5,7 @@ This is a fork of [Create Renewable Ores](https://github.com/CodeF53/Create-Rene
 ## Modifications
 
 - Changed Deepslate recipe to result in Cobbled Deepslate
+- Changed Tuff to require Basalt instead of scoria
 
 ### Original README
 
