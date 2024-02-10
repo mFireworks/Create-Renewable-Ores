@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "count": 8
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gilded_backstone"
+    }
+  ]
+}
