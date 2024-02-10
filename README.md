@@ -10,6 +10,7 @@ This is a fork of [Create Renewable Ores](https://github.com/CodeF53/Create-Rene
 ## Additions
 
 - Added recipe for netherrack: Heated mixing with 2 cobblestone, 1 cinder flour, and 200mB of lava.
+- Added recipe for end stone: Heated mixing with 1 cobblestone, 1 chorus fruit, and 200mB of lava.
 
 ### Original README
 
